@@ -1,2 +1,10 @@
+respected Karan,
 sensable gand
-chaa gya guru
+i am making the changes in the read me file.
+i highly appologize for making the changes.
+
+i am feeling very gulity..
+i swear.
+
+thanking you very much
+akshay singhi !!
