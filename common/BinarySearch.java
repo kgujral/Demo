@@ -1,7 +1,7 @@
 public Class BinarySearch {
 
 	public void inputNumbers() {
-		System.out.print("enter the number here:")
+    cout>>"Please enter array of numbers:" // to take the input // jaspreet
 		abcd by sandeep
 this is 2nd time
 	}
